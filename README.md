@@ -16,8 +16,8 @@
   > Engage the stakeholders frequently  
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
   Effective cost control contributes alot in the success of a project in that
-  > It ensures that the project remains financially stable and aligned with      the organization's budgetary constraints.
-  > Cost control helps greatly in resurce optimization in that it ensures        that funds are directed towards critical project activities and areas        with that have the highest impact
+  > It ensures that the project remains financially stable and aligned with the organization's budgetary constraints.
+  > Cost control helps greatly in resurce optimization in that it ensures that funds are directed towards critical project activities and areas with that have the highest impact
   > It also helps in risk mitigation in that by closely monitoring costs, potential risks can be identified an ddealt with early.
   The above points clearly indicate how important cost control is to a project. Some of the strategies that can be used to prevena budget overburn include:
 > Developing a comprehensive plan with a detailed budget breakdown
@@ -74,10 +74,40 @@ Maintaining high standards is important because:
 >  It ensures compliance with standard industry regulations
 > It offers a competitive advantage due to its high quality
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+Defining the project scope important for successful project planning because it clearly outlines the boundaries, objectives, and requirements of the project. This in turn helps stakeholders understand what is included and excluded, reducing misunderstandings and scope creep. A well-defined scope provides a roadmap for the project team, guiding resource allocation, scheduling, and budgeting, ensuring everyone is aligned on the project's goals and expectations
+
+A work breakdown structure is a process of decomposition or modularization  of the project into smaller and more manageable and controllable tasks, often represented in a tree structure. A WBS is usefull due to the following reasons:
+It provides a clear and organized view of the project's entire scope, making it easier to understand and manage.
+By breaking down the project into smaller tasks, it helps in estimating the resources, time, budget, and personnel required.
+It assists in creating a realistic project schedule by identifying the sequence of tasks and their dependencies.
+It facilitates tracking progress and performance, making it easier to identify deviations from the plan and take corrective actions.
+
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+Having a detailed project schedule is important since it helps in the following ways:
+It helps in risk mitigation in that anticipating potential risks and planning  reduces the impact of unforeseen events
+It helps in time management since a detailed schedule helps in allocating time effectively to each task, ensuring that the project progresses according to plan and deadlines are met.
+A clear schedule also improves and promotes healthy communication among team members since everyone is clearly aware of their roles and deadlines hence reducing rise of quarrels.
+It also helps in better planning and allocation of resources, including personnel, equipment, and materials, hence minimizing wastage  and optimizing use.
+
+A gantt chart assists in the scheduling process in the following ways:
+It offers a visual overview of the project, making it easy to see the overall tasks.
+They serve as a communication tool for stakeholders, providing a clear and accessible overview of the project’s timeline and status.
+It helps identify potential resource conflict and optimize resource allocation
+
+
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+The software aims to adress the difficulties faced in getting the correct medication for sick patients. The problem is significant since it will greatly improve the wellbeing of the audience
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+Clear definition of a problem helps in developing more effective solutions in that:
+It provides clear objectives and requirements for the software hence realistic and managable goals are fomulated
+There is effective resource allocation reducing wastage
+Improved twsting and quality assuarance
+Enhances communication and team work
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+It is a system software that aims to bridge the gap in healthcare and make treatments more effective
 ## 11. What are the main features or functionalities that make your software stand out?
+It will be able to bridge the gap that is present in getting better healthcare services
 ## 12. What data is available regarding the market size and growth potential for your software?
+Currently the data available include reports and researches, general media content ie viideos and pictures.
 ## 13. How can understanding market trends inform your software’s positioning and development?
+Understanding the current trends will help in the accurate development of the software, meeting the needs of the current times
